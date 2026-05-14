@@ -1,0 +1,51 @@
+header{
+    background-color: azure;
+    line-height: normal;
+    color: orangered;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    padding: auto;
+}
+
+.linea{
+    width: 1000px;
+    height: 3px;
+    background-color: orangered;
+    margin: 12px; 
+    border-radius: 2px;
+    margin: auto;
+
+}
+
+.Libro{
+    background-color: hsl(182, 100%, 89%);
+    border: 1px solid #add8e6;
+    border-radius: 8px;
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    max-width: 1000px;
+    margin: 20px auto;
+
+    
+}
+
+.descripcion{
+    /* margin-top: 10px; */
+    padding: 15px;
+    background-color: azure;
+    border: 1px solid #add8e6;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+}
+
+.pie{
+    background-color: rgb(247, 247, 214);
+    border: 1px;
+    border-radius: 8px;
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1000;
+    margin: 20px auto;
+}
